@@ -1,7 +1,7 @@
 # BTC-hash
 
 ## introduce
-Here is the hash value of the real btc wallet. All are real, if you find them, please contact me.https://t.me/GM_tyui
+这里有一些hash值，如果你找到了它们的密码，我有对应的钱包，请联系我，您拿50%，线下交易。https://t.me/GM_tyui
 
 ## hash
 | HEX |
