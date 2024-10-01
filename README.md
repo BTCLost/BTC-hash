@@ -1,7 +1,7 @@
 # BTC-hash
 
 ## introduce
-这里有一些hash值，如果你找到了它们的密码，我有对应的钱包，请联系我，您拿50%，线下交易。https://t.me/GM_tyui
+Here are some hash values. If you find their passwords, I have the corresponding wallets. Please contact me, and you'll get 50%. The transaction will be done offline. https://t.me/GM_tyui
 
 ## hash
 | HEX |
